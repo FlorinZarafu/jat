@@ -10,7 +10,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Genuineq\\Jato\\JatoProvider"
+                "Genuineq\\Jato\\Providers\\JatoProvider"
             ]
         }
     }
