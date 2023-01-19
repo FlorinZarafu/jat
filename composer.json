@@ -8,10 +8,10 @@
     },
     "require": {},
     "extra": {
-    "laravel": {
-        "providers": [
-            "Genuineq\\Jato\\JatoProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "Genuineq\\Jato\\JatoProvider"
+            ]
+        }
     }
-},
 }
