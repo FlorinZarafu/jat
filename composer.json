@@ -7,4 +7,11 @@
         }
     },
     "require": {}
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Genuineq\\Jato\\JatoProvider"
+        ]
+    }
+},
 }
