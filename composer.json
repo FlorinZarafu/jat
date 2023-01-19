@@ -6,7 +6,7 @@
             "Dev3\\Jato\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
     "extra": {
     "laravel": {
         "providers": [
